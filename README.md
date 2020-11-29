@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 <br />
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThayseSantos&show_icons=true&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ThayseSantos&show_icons=true&theme=gruvbox)
