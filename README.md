@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Connect with me:
 
-[<img align="left" alt="https://www.linkedin.com/in/ThayseSantos/" width="250px" src="#" />](https://www.linkedin.com/in/thayses-santos/)
-[<img align="left" alt="https://www.instagram.com/ata.ise/" width="250px" src="#" />](https://www.instagram.com/ata.ise/)
+[<img align="left" alt="https://www.linkedin.com/in/ThayseSantos/" width="250px" src="https://github.com/ThayseSantos/ThayseSantos/blob/main/Linkedin.png" />](https://www.linkedin.com/in/thayses-santos/)
+[<img align="left" alt="https://www.instagram.com/ata.ise/" width="250px" src="https://github.com/ThayseSantos/ThayseSantos/blob/main/Instagram.png" />](https://www.instagram.com/ata.ise/)
 <!--[<img align="left" alt="https://www.youtube.com/channel/UCfIBxtbvSlEoUEi4eNL9LQA?view_as=subscriber" width="250px" src="https://github.com/eeikee/eeikee/blob/master/youtube.png" />](https://bit.ly/eeikee-yt) 
 -->
 <br />
