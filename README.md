@@ -1,5 +1,5 @@
 
-### 🍂Hello World | こんにちは世界 | Ciao mondo | Привет мир | Hallo Wereld✨
+<p align=center> 🍂Hello World | こんにちは世界 | Ciao mondo | Привет мир | Hallo Wereld✨
 
 
 
@@ -10,7 +10,8 @@
 <!-- Div de Stats e Linguagens Utilizadas -->
  <div>
   <a href="https://github.com/ThayseSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThayseSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayseSantos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThayseSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayseSantos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <!-- Icones de Tecnologias -->
