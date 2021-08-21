@@ -19,7 +19,7 @@
   <img align="center" alt="Thay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="hi" src="https://i.picasion.com/pic91/0bd3047dcdc0f620a3a6dc08f6e97705.gif">
+  <img align="right" alt="hi" src="https://i.picasion.com/pic91/6c9e3e47c0f022844e3644f9eceef2a1.gif">
 </div>
   
   ##
