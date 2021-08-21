@@ -1,5 +1,4 @@
 <p align=center> 🍂𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 | こんにちは世界 | Ciao mondo | Привет мир | 𝐻𝒶𝓁𝓁𝑜 𝒲𝑒𝓇𝑒𝓁𝒹✨
-<img width="500em" src="https://freepngimg.com/thumb/lights/26299-4-christmas-lights-transparent.png">
 
 
 
