@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Concretizando conhecimentos Segurança da Informação e suas tecnologias
+- 🔭 Concretizando conhecimentos de Segurança da Informação e suas tecnologias
 - 📫 Contate-me: snts.thayse@gmail.com
 - 💕 Pronomes: ela/dela | she/her
 
