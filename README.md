@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente estudando Back-end com Python
+- 🔭 Concretizando conhecimentos Segurança da Informação e suas tecnologias
 - 📫 Contate-me: snts.thayse@gmail.com
 - 💕 Pronomes: ela/dela | she/her
 
