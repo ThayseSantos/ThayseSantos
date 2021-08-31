@@ -1,12 +1,4 @@
 <div align=center>
-<p align=center> 🍂𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 | こんにちは世界 | Ciao mondo | Привет мир | 𝐻𝒶𝓁𝓁𝑜 𝒲𝑒𝓇𝑒𝓁𝒹✨
-
-
-<div>
-- 🔭 Student of Systems Analysis and Development.<br>
-- 📫 Contact me: snts.thayse@gmail.com<br>
-- 💕 Pronouns: she/her
-  </div>
 
 <!-- Div de Stats e Linguagens Utilizadas -->
 <div>
