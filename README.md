@@ -1,13 +1,15 @@
+<div align=center>
 <p align=center> 🍂𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 | こんにちは世界 | Ciao mondo | Привет мир | 𝐻𝒶𝓁𝓁𝑜 𝒲𝑒𝓇𝑒𝓁𝒹✨
 
 
-
-- 🔭 Concretizando conhecimentos de Segurança da Informação e suas tecnologias
-- 📫 Contate-me: snts.thayse@gmail.com
-- 💕 Pronomes: ela/dela | she/her
+<div>
+- 🔭 Student of Systems Analysis and Development.<br>
+- 📫 Contact me: snts.thayse@gmail.com<br>
+- 💕 Pronouns: she/her
+  </div>
 
 <!-- Div de Stats e Linguagens Utilizadas -->
-  <div>
+<div>
   <a href="https://github.com/ThayseSantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThayseSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThayseSantos&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,7 +17,7 @@
     
 
   <!-- Icones de Tecnologias -->
-<div align="center">
+<div>
   <br>  
   <img align="center" alt="Thay-VS" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
   <img align="center" alt="Thay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -33,7 +35,7 @@
   
   ##
 <!-- Redes Sociais e Info's --> 
-<div align="center">
+<div>
  
   <a href="https://instagram.com/ata.ise" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:snts.thayse@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -41,4 +43,5 @@
  </div>
 
 <!-- Snake -->
-   ![Snake animation](https://github.com/ThayseSantos/ThayseSantos/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/ThayseSantos/ThayseSantos/blob/output/github-contribution-grid-snake.svg) 
+</div>
